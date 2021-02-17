@@ -2,4 +2,4 @@
 
 github para desarrolladores
 
-[visita la americana] (https://americana.edu.co/portal/)
+[visita la americana](https://americana.edu.co/portal/)
